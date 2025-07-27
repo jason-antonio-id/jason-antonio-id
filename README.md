@@ -1,16 +1,26 @@
 ## Hi there 👋
 
-<!--
-**jason-antonio-id/jason-antonio-id** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi there, I'm Jason Antonio 🇮🇩
 
-Here are some ideas to get you started:
+🎓 I'm a high school student preparing to enter Binus University (AI Major)  
+🚀 Aspiring Machine Learning Engineer & Backend Developer  
+🌐 Aiming to work remotely in Singapore and beyond  
+📚 Currently learning:  
+- 🤖 Python & Machine Learning  
+- 🌏 Mandarin Chinese  
+- 🧠 Problem Solving & Algorithms  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔧 Tech Goals (2025 – 2028)
+- Master Python Fundamentals
+- Build AI/ML mini projects
+- Compete in coding competitions
+- Fluent in Mandarin for tech + global work
+- Intern or freelance remotely to Singapore
+
+---
+
+## 📫 Contact
+Feel free to connect or collaborate:
+- Email: antoniojason212_gmail.com

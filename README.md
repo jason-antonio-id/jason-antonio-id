@@ -23,4 +23,4 @@
 
 ## 📫 Contact
 Feel free to connect or collaborate:
-- Email: antoniojason212_gmail.com
+- Email: antoniojason212@gmail.com

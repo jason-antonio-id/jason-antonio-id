@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-# 👋 Hi there, I'm Jason Antonio 🇮🇩
+# 👋 Hi there, I'm Jason Antonio 🇮🇩 杨永祥
 
 🎓 I'm a high school student preparing to enter Binus University (AI Major)  
 🚀 Aspiring Machine Learning Engineer & Backend Developer  
